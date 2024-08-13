@@ -44,10 +44,14 @@ Here we add the Agents(Workers) and Users(Customers) and configure them to our n
 </p>
 <br />
 
+Here is the after photo of the users I created. These are simply made for the lab, but in a real setting would have more specifics to them, and there would be a lot more of them.
+<img src="https://i.imgur.com/85KODTb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GPnGlHT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZILF4Yl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Above is the process for configuring the SLA (Service Level Agreement). The SLA controls the severity/priority of a ticket, and is useful in determining which ticket a HelpDesk Professional should tend to first. There are three severity levels I created for this lab: Sev-A, Sev-B, and Sev-C. Sev-A is the highest severity, and must be tended to within an hour of creation, 24/7. This means that despite the time of day, the HelpDesk Professional assigned to it has one hour to make a comment or acknowledge its creation. Sev-B is similar, however instead of one hour to respond, you have four. Sev-C is the lowest severity one, and gives the HelpDesk User 8 hours to respond, only pertaining to business hours. For instance, If a Sev-C ticket is made at friday at 4pm, assuming a 9-5, Mon-Fri workweek, that ticket can be tended to as late as the following Monday at 4pm.
 </p>
 <br />
